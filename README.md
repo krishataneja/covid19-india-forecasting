@@ -122,7 +122,3 @@ Gradient Boosting is the clear winner. Lag features (lag-1, lag-2) and rolling s
 - Python ≥ 3.9
 - pandas, numpy, scikit-learn, matplotlib, seaborn, scipy, reportlab
 - Optional: xgboost, prophet, tensorflow (code auto-detects and uses fallbacks)
-
-## License
-
-MIT
